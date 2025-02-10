@@ -14,5 +14,5 @@ The key aspects of this project include:
 - Computational Efficiency: Comparisons between naive and optimized models, demonstrating an 80% reduction in variables and constraints.
   
 - Upper and Lower Bound Estimation: The project explores heuristic approaches and relaxation techniques to estimate solution bounds efficiently.
-- 
+  
 This repository contains the full Python implementation, problem formulation, and analysis of results. 
